@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Hiruna Kithsandu",
+        "title": "Lead Mechanic",
+        "image": "/assets/img/member/member_1.jpg",
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form injected humour, or randomised. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form injected humour, or randomised.",
+        "socialLinks": {
+            "linkedin": "https://www.facebook.com/",
+            "facebook": "https://bd.linkedin.com/",
+            "twitter": "https://www.instagram.com/"
+        },
+        "contact": {
+            "address": "2118 Thornridge Cir, 35624",
+            "email": "example@example.com",
+            "phone": "+7 (903) 679-96-15",
+            "website": "www.website.com"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Venuja Geenodh",
+        "title": "Service Advisor",
+        "image": "/assets/img/member/member_2.jpg",
+        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "socialLinks": {
+            "linkedin": "https://www.facebook.com/",
+            "facebook": "https://bd.linkedin.com/",
+            "twitter": "https://www.instagram.com/"
+        },
+        "contact": {
+            "address": "2118 Thornridge Cir, 35624",
+            "email": "example@example.com",
+            "phone": "+7 (903) 679-96-15",
+            "website": "www.website.com"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Chamara Bandara",
+        "title": "Diagnostic Technician",
+        "image": "/assets/img/member/member_3.jpg",
+        "desp": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "socialLinks": {
+            "linkedin": "https://www.facebook.com/",
+            "facebook": "https://bd.linkedin.com/",
+            "twitter": "https://www.instagram.com/"
+        },
+        "contact": {
+            "address": "2118 Thornridge Cir, 35624",
+            "email": "example@example.com",
+            "phone": "+7 (903) 679-96-15",
+            "website": "www.website.com"
+        }
+    }
+]

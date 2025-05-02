@@ -19,6 +19,8 @@ import appointmentRoutes from "./routes/appointmentRoutes.js"; // ✅ Added appo
 // Load environment variables
 dotenv.config();
 
+
+
 // App configuration
 const app = express();
 const port = 4000;

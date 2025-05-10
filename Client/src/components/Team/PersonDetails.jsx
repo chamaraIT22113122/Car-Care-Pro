@@ -6,7 +6,7 @@ const personData = {
   title: "Founder of Company",
   quote:
     "“There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form injected humour, or randomised”",
-  image: "/assets/img/team/ceo.png",
+  image: "/assets/img/team/ceo.jpg",
   videoLink: "https://www.youtube.com/watch?v=VcaAVWtP48A",
 };
 

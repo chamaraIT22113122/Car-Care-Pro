@@ -50,14 +50,14 @@ export default function NavMenu() {
             </div>
           </div>
           <div className="ak-main-header-right">
-            <Link to="tel:+94 76 2283 905">
+            <Link to="tel:+94 34 51261">
               <div className="d-flex align-items-center gap-3">
                 <div className="heartbeat-icon">
                   <span className="ak-heartbeat-btn">
                     <img src="/assets/img/icon/phone.svg" alt="..." />
                   </span>
                 </div>
-                <h6> +94 76 2283 905</h6>
+                <h6> +94 34 51261</h6>
               </div>
             </Link>
           </div>
